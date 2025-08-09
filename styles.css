@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(219, 219, 219)
+}
+
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.navlink {
+    background-color: rgb(255, 0, 0);
+    color: black;
+    display: inline-block;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px auto;
+    text-decoration: none;
+}
+
+.description {
+    text-align: center;
+}

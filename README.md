@@ -5,3 +5,6 @@ I've had some experience with web dev, but it's nice to work a bit step-by-step 
 
 Not a lot to show off here, just a basic page with links to other recipe pages.
 Decent recipes that I found courtesy AllRecipes.com with images from Flickr.
+
+# styles
+You may have noticed that I have added some CSS stylings. Just practicing a bit with that. Nothing fancy.
